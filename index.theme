@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=crazymothafucka-blue
+Comment=crazymothafucka-blue
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=crazymothafucka-blue
+IconTheme=ubuntu-mono-dark
+CursorTheme=DMZ-Black
+ButtonLayout=close,minimize,maximize:
