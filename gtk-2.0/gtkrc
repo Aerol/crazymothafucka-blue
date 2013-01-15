@@ -341,7 +341,7 @@ style "menu" = "dark" {
 	xthickness = 0
 	ythickness = 0
 
-	bg[NORMAL] = "#222222"
+	bg[NORMAL] = "#151515"
 	bg[INSENSITIVE] = "#43423f"
 	fg[INSENSITIVE]   = shade (0.54, "#43423f")
 
@@ -356,6 +356,7 @@ style "menu_item" = "menu" {
 	ythickness = 3
 
 	fg[PRELIGHT] = @selected_fg_color
+	fg[INSENSITIVE] = shade(0.9, @fg_color)
 
 	engine "murrine"
 	{
