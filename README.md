@@ -3,7 +3,14 @@
     cd .themes
     git clone git://github.com/Aerol/crazymothafucka-blue.git
 
-Then set theme however you set your GTK and Openbox themes.
+crazymothafucka-blue entry should appear in whatever theme changing application you use.
 
 ## Screenshot
 ![](http://i.imgur.com/zjKfQ.jpg)
+
+## Copyright
+GTK theme is modified from Ambiance theme
+
+Openbox theme is modified from crazymothafucka-green
+
+Close/Minimize/Maximize buttons are from BlackWhite Openbox theme...I think
