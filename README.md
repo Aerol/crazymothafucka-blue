@@ -6,6 +6,8 @@ crazymothafucka-blue entry should appear in whatever theme changing application 
 
 ## Screenshot
 ![](http://i.imgur.com/zjKfQ.jpg)
+![](https://raw.github.com/Aerol/crazymothafucka-blue/master/screenshot1.png)
+![](https://raw.github.com/Aerol/crazymothafucka-blue/master/screenshot2.png)
 
 ## Copyright
 GTK theme is modified from Ambiance theme<br />
