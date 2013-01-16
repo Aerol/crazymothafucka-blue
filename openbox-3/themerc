@@ -1,9 +1,11 @@
 !! an openbox theme based on the crazymothafucka gtk theme 
 !! http://na12.deviantart.com
+!!
 !! Blue version modification by Aerol
+!! https://github.com/Aerol/crazymothafucka-blue
 
 !! menu title
-menu.title.bg: gradient vertical flat 
+menu.title.bg: gradient vertical flat
 menu.title.bg.color:  #1e1e1e
 menu.title.bg.colorTo: #1a1a1a
 
