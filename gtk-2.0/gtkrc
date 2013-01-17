@@ -107,7 +107,7 @@ style "default" {
 		highlight_shade = 1.0
 		glazestyle = 0
 		default_button_color = shade (1.1, @selected_bg_color)
-		gradient_shades = {1.1, 1.0, 1.0, 0.9}
+		gradient_shades = {1.05, 1.0, 1.0, 0.98}
 		roundness = 2
 		lightborder_shade = 1.26
 		lightborderstyle = 1
@@ -179,19 +179,17 @@ style "button" {
 	xthickness = 3
 	ythickness = 3
 
-	bg[NORMAL] = "#F0EEED"
-	bg[PRELIGHT] = shade (1.04, "#F0EEED")
-	bg[ACTIVE] = shade (0.96, "#F0EEED")
-	bg[INSENSITIVE] = mix (0.25, @bg_color, "#F0EEED")
-	fg[INSENSITIVE] = "#9c9c9c"
+	bg[NORMAL] = shade (1.0,@bg_color)
+	bg[INSENSITIVE] = shade (1.03,@bg_color)
+	bg[ACTIVE] = shade (0.87,@bg_color)
 
 	engine "murrine" {
-		#contrast = 1.0
-		border_shades = {1.0, 1.0}
+	#	#contrast = 1.0
+		border_shades = {0.99, 0.9}
 		textstyle = 1
-		glowstyle = 0
-		glow_shade = 0.9
-        roundness = 1
+	#	glowstyle = 0
+	#	glow_shade = 0.9
+        roundness = 3
 		#text_shade = 1.04
 	}
 }
