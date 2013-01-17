@@ -8,8 +8,8 @@ crazymothafucka-blue entry should appear in whatever theme changing application 
 ![](http://i.imgur.com/zjKfQ.jpg)
 ![](https://raw.github.com/Aerol/crazymothafucka-blue/master/screenshot1.png)
 ![](https://raw.github.com/Aerol/crazymothafucka-blue/master/screenshot2.png)
-![](https://raw.github.com/Aerol/crazymothafucka-blue/master/screenshot3.png)
-![](https://raw.github.com/Aerol/crazymothafucka-blue/master/screenshot4.png)
+![](https://raw.github.com/Aerol/crazymothafucka-blue/master/screenshot3.jpg)
+![](https://raw.github.com/Aerol/crazymothafucka-blue/master/screenshot4.jpg)
 
 ## XFCE Panel
 If you happen to use xfce4-panel, make sure your panel height is set to 24 pixels.<br />
