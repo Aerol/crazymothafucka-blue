@@ -4,7 +4,7 @@ style "theme-panel" = "dark"
 	ythickness	= 0
 	
 	bg_pixmap[NORMAL] = "img/panel.png"
-	bg[NORMAL]	= "#222222" # "#4b4a46"
+	bg[NORMAL]	= "#4b4a46"
 	bg[ACTIVE]	= "#3D9BDB"
 	bg[PRELIGHT]	= "#313131"
 
@@ -19,9 +19,9 @@ style "theme-panel" = "dark"
 	engine "murrine" {
 		#border_shades	= { 1.3, 0.9 }
 		contrast	= 0.0
-		roundness	= 0
-		glowstyle	= 0
-		glow_shade	= 1.4
+		roundness	= 1
+		glowstyle	= 3
+		glow_shade	= 0.5
 		glazestyle	= 2
 		trough_border_shades	= { 3.0, 2.5 } # improve visibility in panel-plugins using the progressbar (xfce4-timer-plugin)
 	}
