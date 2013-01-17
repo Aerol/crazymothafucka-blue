@@ -6,7 +6,7 @@ style "theme-panel" = "dark"
 	bg_pixmap[NORMAL] = "img/panel.png"
 	bg[NORMAL]	= "#222222" # "#4b4a46"
 	bg[ACTIVE]	= "#3D9BDB"
-	bg[PRELIGHT]	= "#222222"
+	bg[PRELIGHT]	= "#313131"
 
 	fg[NORMAL]	= @selected_fg_color
 	fg[PRELIGHT]	= "#ffffff"
