@@ -5,7 +5,6 @@
 crazymothafucka-blue entry should appear in whatever theme changing application you use.
 
 ## Screenshot
-![](http://i.imgur.com/zjKfQ.jpg)
 ![](https://raw.github.com/Aerol/crazymothafucka-blue/master/screenshot1.png)
 ![](https://raw.github.com/Aerol/crazymothafucka-blue/master/screenshot2.png)
 ![](https://raw.github.com/Aerol/crazymothafucka-blue/master/screenshot3.jpg)
