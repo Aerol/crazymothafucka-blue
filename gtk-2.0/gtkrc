@@ -176,8 +176,8 @@ style "hscale" {
 }
 
 style "button" {
-	xthickness = 3
-	ythickness = 3
+	xthickness = 0
+	ythickness = 0
 
 	bg[NORMAL] = shade (1.0,@bg_color)
 	bg[INSENSITIVE] = shade (1.03,@bg_color)
@@ -545,10 +545,10 @@ style "calendar_menu_item" = "calendar" {
 
 style "iconview" {
 	engine "murrine" {
-		roundness = 6
-		border_shades = {1.16, 1.0}
-		glow_shade = 1.1
-		glowstyle = 5
+		roundness = 3
+		border_shades = {0.99, 0.9}
+		#glow_shade = 1.1
+		#glowstyle = 5
 	}
 }
 
