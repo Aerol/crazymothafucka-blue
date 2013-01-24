@@ -21,7 +21,7 @@ menu.items.bg.color: #151515
 
 menu.items.text.color:#717171
 menu.items.justify: left
-menu.items.disabled.text.color: #454545 
+menu.items.disabled.text.color: #454545
 menu.items.active.bg: gradient vertical flat
 menu.items.active.bg.color:#3D98D8
 !! #d4f011
