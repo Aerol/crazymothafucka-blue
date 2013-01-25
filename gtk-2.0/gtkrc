@@ -1,12 +1,12 @@
-gtk-color-scheme = "base_color:#ffffff
+gtk-color-scheme = "base_color:#FFFFFF
 fg_color:#4c4c4c
-tooltip_fg_color:#000000
+tooltip_fg_color:#151515
 selected_bg_color:#3D9BDB
 selected_fg_color:#FFFFFF
-text_color:#3c3c3c
+text_color:#202020
 bg_color:#F2F1F0
-tooltip_bg_color:#ffffff
-link_color:#397ACF"
+tooltip_bg_color:#F2F1F0
+link_color:#3D9BDB"
 
 gtk-icon-sizes = "panel-menu=22,22:gtk-button=16,16"
 
@@ -129,7 +129,7 @@ style "default" {
 style "dark"
 {
 	color["bg_color_dark"] 	= "#151515"
-  	color["fg_color_dark"] 	= "#dfdbd2"
+  	color["fg_color_dark"] 	= "#F2F1F0"
   	color["selected_fg_color_dark"] = "#ffffff"
 
   	fg[NORMAL]        = @fg_color_dark
