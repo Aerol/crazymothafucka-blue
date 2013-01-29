@@ -3,7 +3,7 @@
 @define-color bg_color #F2F1F0;
 @define-color fg_color #4c4c4c;
 @define-color base_color #FFF;
-@define-color text_color #3c3c3c;
+@define-color text_color #202020;
 @define-color selected_bg_color #3D9BDB;
 @define-color selected_fg_color #FFF;
 @define-color tooltip_bg_color #F2F1F0;
@@ -12,6 +12,7 @@
 /* dark color scheme */
 @define-color dark_bg_color #151515;
 @define-color dark_fg_color #F2F1F0;
+@define-color dark_text_color #D0D0D0;
 
 /* colormap actually used by the theme, to be overridden in other css files */
 @define-color theme_bg_color @bg_color;
